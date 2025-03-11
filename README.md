@@ -28,7 +28,7 @@
 🔹 **[Nombre del Proyecto 2](URL)** - Descripción breve del proyecto.  
 
 ## 📊 Estadísticas de GitHub  
-![TuNombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=dark)  
+![Namirak11 GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=dark)  
 
 ## 📫 Contacto  
 📩 Email: namirkubba@gmail.com 
