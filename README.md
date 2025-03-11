@@ -19,7 +19,7 @@
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🛠️ Herramientas y Tecnologías  
-- ![Linux]<img src="https://github.com/Namirak11/Namirak11/blob/main/img/linux.png" alt="Descripción" width="400px">
+- <img src="https://github.com/Namirak11/Namirak11/blob/main/img/linux.png" alt="Descripción" width="150px">
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
 
