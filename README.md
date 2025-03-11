@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Namir 
 
-<!--
-**Namirak11/Namirak11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí  
+💻 Técnico en Administración de Sistemas Informáticos en Red (ASIR).  
+🔧 Especializado en bases de datos, desarrollo web y administración de sistemas.  
+📚 Siempre aprendiendo y mejorando mis habilidades técnicas.  
 
-Here are some ideas to get you started:
+## 🛠️ Lenguajes y Tecnologías  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Lenguajes de Programación  
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+### 🖥️ Bases de Datos  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 🛠️ Herramientas y Tecnologías  
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
+
+## 🚀 Proyectos Destacados  
+🔹 **[Nombre del Proyecto 1](URL)** - Descripción breve del proyecto.  
+🔹 **[Nombre del Proyecto 2](URL)** - Descripción breve del proyecto.  
+
+## 📊 Estadísticas de GitHub  
+![TuNombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=dark)  
+
+## 📫 Contacto  
+📩 Email: [Tu Correo]  
+💼 LinkedIn: [Tu LinkedIn]  
+
+---
+
+¡Gracias por visitar mi perfil! 🚀  
