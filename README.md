@@ -31,8 +31,8 @@
 ![TuNombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=dark)  
 
 ## 📫 Contacto  
-📩 Email: [Tu Correo]  
-💼 LinkedIn: [Tu LinkedIn]  
+📩 Email: namirkubba@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/namir-kubba-438a4729b/  
 
 ---
 
