@@ -32,6 +32,7 @@
 
 ## 📫 Contacto  
 📩 Email: namirkubba@gmail.com 
+
 💼 LinkedIn: https://www.linkedin.com/in/namir-kubba-438a4729b/  
 
 ---
